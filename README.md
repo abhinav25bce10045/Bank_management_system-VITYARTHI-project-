@@ -1,6 +1,6 @@
 **Project title**
 
-Bank Management System(BMS0
+Bank Management System(BMS)
 
 **Overview of the Project**
 
